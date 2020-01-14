@@ -5,5 +5,6 @@ In this project, we extract Tweets pertaining to Influenza to detect trends in F
 Using these tweets, we map out the areas within the continental USA which have higher number of mentions of flu related topics. We then compare this to the actual flu map of the CDC to find trends in Flu.
 
 CDC_FluHeatMap2019.r - R script to plot heatmap from the CDC data
+
 TwitterAnalysis.r - R script to extract Flu-related tweets, get geo-coded locations, and plot heatmap
 
